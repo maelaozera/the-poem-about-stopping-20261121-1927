@@ -1,7 +1,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const poem = `The kettle sings. I lift it off the flame.
-Nothing breaks. The steam thins and goes.
+Nothing breaks. The steam rises and thins.
 
 My agent runs ahead of me —
 the one word it cannot spend is no.
